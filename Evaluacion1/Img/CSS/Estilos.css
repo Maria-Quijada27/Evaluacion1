@@ -1,0 +1,71 @@
+.img-carrusel {
+    height: 750px;
+}
+
+.color1 {
+    color: rgb(214, 173, 123);
+
+}
+
+.color2 {
+    color: rgb(12, 31, 95);
+}
+
+.color3 {color: rgb(214, 162, 18);
+}
+
+.tamañoletra {
+     font-size: 3ch;
+     font-style: oblique;
+     
+}
+
+.tamañoletra2 {
+    font-size: 4ch;
+    font-style: oblique;
+    
+}
+
+.tamañoletra3 {
+    font-size: 3ch;
+    font-style: unset;
+    
+}
+
+
+.titulo{
+    font-style: oblique;
+}
+
+
+.F1{
+    height: 400px;
+    background-color:rgb(126, 185, 212);
+}
+
+.F2{
+    height: 400px;
+    background-color: rgb(97, 141, 170);
+}
+
+.F3{
+    height: 300px;
+    background-color: rgb(76, 130, 151);
+}
+
+
+.F4{
+    height:800px;
+    background-color: slateblue;
+}
+
+.F5{
+    height:800px;
+    background-color: rgb(129, 119, 189);
+}
+
+.img-contacto{
+    background: url("Img/contacto2");
+    height: 600px;
+}
+
